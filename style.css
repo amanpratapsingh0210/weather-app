@@ -1,0 +1,17 @@
+body.rainy {
+    background-image: url('Images/rainy-background.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+body.sunny {
+    background-image: url('Images/sunny-background.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+body.cloudy {
+    background-image: url('Images/cloudy-background.jpeg');
+    background-size: cover;
+    background-position: center;
+}
